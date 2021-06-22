@@ -43,7 +43,7 @@
 
 ## តើធ្វើយ៉ាងមិចបានអាចសរសេរ Springboot + Kotlin បាន?🤔
 
-- ត្រូវចំណាំថា ដើម្បីសរសេរ **Springboot** បានយើងត្រូវការបង្កើត _Project_ របស់ **Springboot** ដោយចូលទៅក្នុងគេហទំព័ររបស់ Spring គឺ https://start.spring.io/ ឬក៏ចូលទៅកាន់ `IDE` របស់អ្នក តែយល់ល្អ គួរតែចូលតាមគេហទំព័រដែលមានតំណរលីងខាងលើទៅ។ តែមុននឹងបង្កើត _Project_ យើងត្រូវទាញយកនូវ **Java Development Kit** សិនដែលគេគ្រប់គ្នាហៅថា `JDK` មកក្នុងកុំព្យូទ័ររបស់អ្នកសិន: https://www.oracle.com/java/technologies/javase-downloads.html ហើយធ្វើការជ្រើសរើស _version_ ណាដែរអ្នកចង់ប្រើ សម្រាប់ tutorial មួយនេះគឺពួកយើងប្រើ `version 11` ចឹងអ្នក​ _version_ នេះតាមពួកយើងបាន។
+- ត្រូវចំណាំថា ដើម្បីសរសេរ **Springboot** បានយើងត្រូវការបង្កើត _Project_ របស់ **Springboot** ដោយចូលទៅក្នុងគេហទំព័ររបស់ Spring គឺ https://start.spring.io/ ឬក៏ចូលទៅកាន់ `IDE` របស់អ្នក តែយល់ល្អ គួរតែចូលតាមគេហទំព័រដែលមានតំណរលីងខាងលើទៅ។ តែមុននឹងបង្កើត _Project_ យើងត្រូវទាញយកនូវ **Java Development Kit** សិនដែលគេគ្រប់គ្នាហៅថា `JDK` មកក្នុងកុំព្យូទ័ររបស់អ្នកសិន: https://www.oracle.com/java/technologies/javase-downloads.html ហើយធ្វើការជ្រើសរើស _version_ ណាដែរអ្នកចង់ប្រើ សម្រាប់ tutorial មួយនេះគឺពួកយើងប្រើ `version 11` ចឹងអ្នកអាចប្រើ _version_ នេះតាមពួកយើងបាន។
 
 - តោះទៅបង្កើត _**Project Springboot**_ ទាំងអស់គ្នា!
 
