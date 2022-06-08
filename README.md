@@ -1,6 +1,6 @@
-# ឯកសារ Springboot + Kotlin ជាភាសាខ្មែរ
+# ឯកសារ Spring Boot + Kotlin ជាភាសាខ្មែរ
 
-![springboot-kotlin thumbnail](/_thumbnail_doc/springboot-kotlin.jpg "Springboot Kotlin Tutorial")
+![springboot-kotlin thumbnail](/_thumbnail_doc/springboot-kotlin.jpg "Spring Boot Kotlin Tutorial")
 
 ## រៀនតាមរយះ Source Code នៅក្នុង Github Branches Repository:
 
@@ -10,20 +10,20 @@
 
 ## ជំនួយបន្ថែម:
 
-- ដើម្បីរៀនតាម _Tutorial_ មួយនេះឲ្យកាន់តែឆាប់យល់ ឆាប់ចាប់បាន អ្នកគួរមើលវីដេអូ **Springboot Crush Course** ខ្លះៗដែរ ដើម្បីជាជំនួយក្នុងការសិក្សាវាបន្ថែម។
+- ដើម្បីរៀនតាម _Tutorial_ មួយនេះឲ្យកាន់តែឆាប់យល់ ឆាប់ចាប់បាន អ្នកគួរមើលវីដេអូ **Spring Boot Crush Course** ខ្លះៗដែរ ដើម្បីជាជំនួយក្នុងការសិក្សាវាបន្ថែម។
 
 > Spring Boot Tutorial | Full Course [2021] [NEW] by
 > Amigoscode
 
-[![react-amigoscode-thumbnail](/_thumbnail_doc/springboot-amigoscode.jpg)](https://www.youtube.com/watch?v=9SGDpanrc8U "Spring Boot Tutorial | Full Course [2021] [NEW]")
+[![spring-amigoscode-thumbnail](/_thumbnail_doc/springboot-amigoscode.jpg)](https://www.youtube.com/watch?v=9SGDpanrc8U "Spring Boot Tutorial | Full Course [2021] [NEW]")
 
-- **បញ្ចាក់** : វីដេអូខាងលើមួយនេះ គឺផ្តោតទៅលើការប្រើប្រាស់ **Springboot** ជាមួយ **Java** ដូច្នេះ **Java** គឺមិនខុសគ្នាជាមួយ **Kotlin** ប៉ុន្មានទេ ដូច្នេះអ្នកអាចរៀនពីការប្រើ **Springboot** ជាមួយ **Kotlin** នៅក្នុង _Tutorial_ មួយនេះបាន។
+- **បញ្ចាក់** : វីដេអូខាងលើមួយនេះ គឺផ្តោតទៅលើការប្រើប្រាស់ **Spring Boot** ជាមួយ **Java** ដូច្នេះ **Java** គឺមិនខុសគ្នាជាមួយ **Kotlin** ប៉ុន្មានទេ ដូច្នេះអ្នកអាចរៀនពីការប្រើ **Spring Boot** ជាមួយ **Kotlin** នៅក្នុង _Tutorial_ មួយនេះបាន។
 
-## តម្រូវការមុននឹងសិក្សា Springboot + Kotlin:
+## តម្រូវការមុននឹងសិក្សា Spring Boot + Kotlin:
 
-- មុននឹងអ្នកអាចរៀននឹង **Springboot** បាន អ្នកត្រូវមានចំណេះដឹងទាក់ទងនឹង Framework _Spring_ ជាមុនសិន។ ហើយអ្នកក៏គួរតែមានចំណេះដឹងទាក់ទងនឹងផ្នែក `Frontend(HTML, CSS, JavaScript)` ផងដែរ ព្រោះ _Spring_ ជា Framework ដែលយើងយកវាមកប្រើនៅក្នុងផ្នែក `Backend`។
+- មុននឹងអ្នកអាចរៀននឹង **Spring Boot** បាន អ្នកត្រូវមានចំណេះដឹងទាក់ទងនឹង Framework _Spring_ ជាមុនសិន។ ហើយអ្នកក៏គួរតែមានចំណេះដឹងទាក់ទងនឹងផ្នែក `Frontend(HTML, CSS, JavaScript)` ផងដែរ ព្រោះ _Spring_ ជា Framework ដែលយើងយកវាមកប្រើនៅក្នុងផ្នែក `Backend`។
 
-## ចំណុចពិសេសរបស់ Springboot + Kotlin:
+## ចំណុចពិសេសរបស់ Spring Boot + Kotlin:
 
 - **Core technologies** មានដូចជា _dependency injection, events, resources, i18n, validation, data binding, type conversion, SpEL, AOP_ ។
 
@@ -33,23 +33,23 @@
 
 - **Spring Security** ជា _framework_ នៅក្នុងភាសា **Spring** ដែលប្រើសម្រាប់ត្រួតពិនិត្យ _authentication និង authorization_ ។
 
-## អ្វីទៅជា Springboot?😯
+## អ្វីទៅជា Spring Boot?😯
 
-- **Springboot** ជាការ _Bootstraping_ នូវ _Project_ របស់ **Spring** ហើយ **Spring** គឺជា _framework_ របស់ភាសា **Java** ដែលប្រើសម្រាប់សរសេរកូដបង្កើតជា _Web Application_ ។
+- **Spring Boot** ជាការ _Bootstraping_ នូវ _Project_ របស់ **Spring** ហើយ **Spring** គឺជា _framework_ របស់ភាសា **Java** ដែលប្រើសម្រាប់សរសេរកូដបង្កើតជា _Web Application_ ។
 
 ## អ្វីទៅជា Kotlin?😲
 
 - **Kotlin** គឺជាភាសាកម្មវិធីថ្មីដែលមានលក្ខណះ `Open Source` ហើយដូចទៅនឹងភាសា **Java** និង **JavaScript** ដែរ។ វាជាភាសាមួយដែលសំបូរបែប ដែលប្រមូលផ្តុំទៅដោយមុខងារជាច្រើនដែលស្ថិតនៅកន្លែងតែមួយ។ បច្ចុប្បន្ននេះ **Kotlin** ដំណើរការលើ _JVM_ ។
 
-## តើធ្វើយ៉ាងមិចបានអាចសរសេរ Springboot + Kotlin បាន?🤔
+## តើធ្វើយ៉ាងមិចបានអាចសរសេរ Spring Boot + Kotlin បាន?🤔
 
-- ត្រូវចំណាំថា ដើម្បីសរសេរ **Springboot** បានយើងត្រូវការបង្កើត _Project_ របស់ **Springboot** ដោយចូលទៅក្នុងគេហទំព័ររបស់ Spring គឺ https://start.spring.io/ ឬក៏ចូលទៅកាន់ `IDE` របស់អ្នក តែយល់ល្អ គួរតែចូលតាមគេហទំព័រដែលមានតំណរលីងខាងលើទៅ។ តែមុននឹងបង្កើត _Project_ យើងត្រូវទាញយកនូវ **Java Development Kit** សិនដែលគេគ្រប់គ្នាហៅថា `JDK` មកក្នុងកុំព្យូទ័ររបស់អ្នកសិន: https://www.oracle.com/java/technologies/javase-downloads.html ហើយធ្វើការជ្រើសរើស _version_ ណាដែរអ្នកចង់ប្រើ សម្រាប់ tutorial មួយនេះគឺពួកយើងប្រើ `version 11` ចឹងអ្នកអាចប្រើ _version_ នេះតាមពួកយើងបាន។
+- ត្រូវចំណាំថា ដើម្បីសរសេរ **Spring Boot** បានយើងត្រូវការបង្កើត _Project_ របស់ **Spring Boot** ដោយចូលទៅក្នុងគេហទំព័ររបស់ Spring គឺ https://start.spring.io/ ឬក៏ចូលទៅកាន់ `IDE` របស់អ្នក តែយល់ល្អ គួរតែចូលតាមគេហទំព័រដែលមានតំណរលីងខាងលើទៅ។ តែមុននឹងបង្កើត _Project_ យើងត្រូវទាញយកនូវ **Java Development Kit** សិនដែលគេគ្រប់គ្នាហៅថា `JDK` មកក្នុងកុំព្យូទ័ររបស់អ្នកសិន: https://www.oracle.com/java/technologies/javase-downloads.html ហើយធ្វើការជ្រើសរើស _version_ ណាដែរអ្នកចង់ប្រើ សម្រាប់ tutorial មួយនេះគឺពួកយើងប្រើ `version 11` ចឹងអ្នកអាចប្រើ _version_ នេះតាមពួកយើងបាន។
 
-- តោះទៅបង្កើត _**Project Springboot**_ ទាំងអស់គ្នា!
+- តោះទៅបង្កើត _**Project Spring Boot**_ ទាំងអស់គ្នា!
 
-![start-spring-io thumbnail](/_thumbnail_doc/start-spring-io.JPG "Start Springboot Project")
+![start-spring-io thumbnail](/_thumbnail_doc/start-spring-io.JPG "Start Spring Boot Project")
 
-- សម្រាប់ _Project_ គឺពួកយើងជ្រើសយក `Grandle Project` ចំណែកឯ _Language_ គឺយកភាសា​ `Kotlin` ហើយ _Springboot_ គឺយក `version ចុងក្រោយគេ`។ សម្រាប់ _Group, Artifact, Name, Description, និង Package name_ គឺដាក់តាមអ្វីដែលចង់ដាក់នឹងគ្រប់គ្រង។ សម្រាប់ _Packaging_ គឺពួកយើងយកប្រភេទ `Jar` ហើយសម្រាប់ _Java_ គឺយកទៅតាម `version JDK ដែលអ្នកបានទាញយកកន្លងមក`។
+- សម្រាប់ _Project_ គឺពួកយើងជ្រើសយក `Grandle Project` ចំណែកឯ _Language_ គឺយកភាសា​ `Kotlin` ហើយ _Spring Boot_ គឺយក `version ចុងក្រោយគេ`។ សម្រាប់ _Group, Artifact, Name, Description, និង Package name_ គឺដាក់តាមអ្វីដែលចង់ដាក់នឹងគ្រប់គ្រង។ សម្រាប់ _Packaging_ គឺពួកយើងយកប្រភេទ `Jar` ហើយសម្រាប់ _Java_ គឺយកទៅតាម `version JDK ដែលអ្នកបានទាញយកកន្លងមក`។
 
 - ក្រឡេកភ្នែករបស់អ្នកមកមើលខាងស្តាំដៃបន្តិចគឺឃើញថា _Dependencies_ ដែលក្នុងនោះគឺត្រូវយក `Spring Web` ដែលប្រើសម្រាប់បង្កើតជា _REST API_ ហើយមួយទៀតគឺ `Spring Data JPA` ដែលប្រើសម្រាប់បង្កើត _Table_ តាមរយះ _ORM_ និងមួយទៀតគឺ `H2 Database` ដែលជា _Memory Database_ ។
 
