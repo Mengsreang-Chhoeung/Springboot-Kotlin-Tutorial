@@ -7,10 +7,8 @@ import org.springframework.web.bind.annotation.RestController
 @RestController
 @RequestMapping("testing-page")
 class TestController {
-
     @GetMapping
     fun testingPage(): String {
         return "<h1>Hello Testing Page😋</h1>"
     }
-
 }
